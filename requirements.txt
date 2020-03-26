@@ -1,0 +1,7 @@
+numpy==1.18.2
+opencv-contrib-python==4.2.0.32
+opencv-python==4.2.0.32
+pandas==0.24.2
+pygame==1.9.6
+simple-pid==0.2.4
+sympy==1.5.1
